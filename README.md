@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArjunS19
+- 👋 Hi, I’m @Senthil-Arjun
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, Java, R, and SQL
 
